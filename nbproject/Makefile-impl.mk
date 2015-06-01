@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Ese050-BasiGestioneListaConcatenataInteri
+PROJECTNAME=Liste
 
 # Active Configuration
 DEFAULTCONF=Debug

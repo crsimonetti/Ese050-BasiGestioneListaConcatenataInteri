@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void VuotaLista(elemento *primo);
+
 
 struct s_elemento{
     int value;
@@ -9,6 +9,7 @@ struct s_elemento{
 };
 typedef struct s_elemento elemento;
 
+void VuotaLista(elemento *primo);
 
 int main(int argc, char** argv) {
     
